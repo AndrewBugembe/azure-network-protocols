@@ -3,7 +3,18 @@
 </p>
 
 <h1>Network Security and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups.
+
+Pros of the project:
+- Enhanced Security: Properly configured NSGs improve VM security.
+- Insightful Analysis: Wireshark provides detailed traffic insights.
+- Skill Development: Gained hands-on experience with Azure and network monitoring.
+
+Challenges:
+- Complexity: Managing VMs, network configurations, and analyzing traffic can be intricate.
+- Security Risks: Misconfigurations or inadequate security settings may expose VMs to risks.
+
+<br />
 
 
 <h2>Video Demonstration</h2>
